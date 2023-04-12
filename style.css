@@ -32,7 +32,7 @@ p {
   color: whitesmoke;
 }
 
-#cards {
+.card-body {
   background-color: black;
 } 
 
